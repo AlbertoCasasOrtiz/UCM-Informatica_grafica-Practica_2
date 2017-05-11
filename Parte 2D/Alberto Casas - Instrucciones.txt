@@ -1,0 +1,7 @@
+Trabajo realizado por Alberto Casas Ortiz.
+
+Controles:
+	a/b: añadir/quitar pentaculo.
+	f/v: Embaldosado.
+	t/y: Zoom.
+	Flechas: Trasladar.

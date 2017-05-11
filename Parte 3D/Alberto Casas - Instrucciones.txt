@@ -1,0 +1,15 @@
+Trabajo realizado por Alberto Casas Ortiz.
+
+Controles:
+	o/p: Embaldosado.
+	t/y: Zoom
+	a/z/s/x/d/C: Girar escena.
+	Flechas: Trasladar escena.
+
+Camara:
+	e/r/f/g/v/b: Mover a lo largo de los ejes.
+	1/2/3: Girar alrededor de los ejes.
+	4/5/6/7: Cambiar de vistas.
+	u/i/j/k/n/m: Mover camara localmente.
+	l: Cambia a modo perspectiva o ortogonal.
+	q/w: Cambiar a vista dentro de coche. q avanza y w retrocede. Mejor ver en modo perspectiva.

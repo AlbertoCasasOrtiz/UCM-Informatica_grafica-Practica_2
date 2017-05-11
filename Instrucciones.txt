@@ -1,0 +1,4 @@
+Trabajo realizado por Alberto Casas Ortiz.
+
+	He separado las partes de la practica en 2D y 3D para más claridad.
+	He añadido un TXT con los controles de cada parte.
